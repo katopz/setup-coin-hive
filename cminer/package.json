@@ -1,0 +1,14 @@
+{
+  "name": "cminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "katopz",
+  "license": "MIT",
+  "scripts": {
+    "start": "NODE_ENV=production nodejs index.js"
+  },
+  "dependencies": {
+    "coin-hive": "^1.1.1"
+  }
+}
